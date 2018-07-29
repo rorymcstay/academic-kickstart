@@ -33,7 +33,9 @@ weight = 5
 
 # Biography
 
-Rory McStay 21, was born in London, grew up in Dublin, Ireland and currently lives in the seaside town of Dun Laoghaire. Living beside the sea, Rory developed an interest in sailing from a young age and ultimately went on to represent Ireland in sailing at the ISAF Youth World Championships in 2012.
+Rory McStay 21, was born in London, grew up in Dublin, Ireland and currently lives in the city of London, workinng as a technology analyst at Deutsche Bank. Rory recently completed his studies in maths and economics at Trinity College Dublin and was awarded the Bastable award for placing first in the economic examinations.
 
-Rory currently studies Maths and Economics at Trinity College Dublin and works part time in the yachting industry having established Proper Rigging, a sailboat running rigging and racing yacht maintenance business. Rory recently achieved the milestone of completing the rebuild and restoration of a 30 year old Land Rover Defender.
+Growing up beside the sea, Rory developed an interest in sailing from a young age and ultimately went on to represent Ireland in sailing at the ISAF Youth World Championships in 2012. Up until recently Rory was the owner/operator of Proper Rigging, a sailboat running rigging and racing yacht maintenance business. 
+
+Rory also is the proud owner of a 1986 Land Rover Defender which he rebuilt over the course of two years. This lead him to an interest in vintage cars and ultimately the ambition to keep his savings account in his garage.
 

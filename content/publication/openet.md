@@ -36,12 +36,12 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "www.rorymcstay.com/Papers/openet_report.pdf"
+url_pdf = "http://rorymcstay.com/Papers/openet_report.pdf"
 #url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
-url_slides = "www.rorymcstay.com/Papers/openet_presentation.pdf"
+url_slides = "http://rorymcstay.com/Papers/openet_presentation.pdf"
 #url_video = "#"
 #url_poster = "#"
 #url_source = "#"
