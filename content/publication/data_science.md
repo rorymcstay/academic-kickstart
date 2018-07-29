@@ -1,7 +1,7 @@
 +++
 title="Predicting Employee Attrition"
 
-date = "2017-05-01"
+date = "2018-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`
 #authors = ["Rory McStay"]
@@ -18,12 +18,12 @@ date = "2017-05-01"
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "Construct a portfolio of equities to satisfy three distinct levels of risk aversion."
+#publication = "Construct a portfolio of equities to satisfy three distinct levels of risk aversion."
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
 
-abstract_short="An Economic Analysis assignment about real business cycle theory. Includes mathematical derivations of the labour market, implementation of a simple RBC model and comparison to stylised trends of an economy. Finishing off with a critical assesment and explanation of RBC theory."
+abstract_short=""
 
 # Featured image thumbnail (optional)
 image_preview = ""
